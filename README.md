@@ -21,3 +21,6 @@ A lightweight, clean, and interactive Command Line Interface bug tracking tool w
 4. *Install the required modules:*
    ```bash
    pip install -r requirements.txt
+5. Run the application
+   ```bash
+   python src/main.py
